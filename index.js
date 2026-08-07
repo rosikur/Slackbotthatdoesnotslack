@@ -26,7 +26,8 @@ app.command("/slackbot-that-doesnt-slack-help", async ({ ack, respond }) => {
     text:
 `Available Commands:
 /slackbot-that-doesnt-slack-ping - Check bot latency
-/slackbot-that-doesnt-slack-catfact - Get a cat fact`
+/slackbot-that-doesnt-slack-fact - Get a cat fact
+/slackbot-that-doesnt-slack-joke - Lists an sometimes funny joke`
   });
 });
 app.command("/slackbot-that-doesnt-slack-fact", async ({ ack, respond }) => {

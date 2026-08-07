@@ -5,7 +5,7 @@ This is A slackbot that runs 24/7 on the Hackclub Slack via its nest server
 
 -help (lists some commands)
 
--catfact(catfact)
+-fact(catfact) (there wasnt enough space for cat in slack)
 
 -joke(joke)
 
